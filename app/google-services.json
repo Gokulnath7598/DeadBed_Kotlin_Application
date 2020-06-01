@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "135091714473",
+    "firebase_url": "https://deadbedcybersolution.firebaseio.com",
+    "project_id": "deadbedcybersolution",
+    "storage_bucket": "deadbedcybersolution.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:135091714473:android:35d25d23a0ef081fc3ecb8",
+        "android_client_info": {
+          "package_name": "com.deadbedcybersolutions.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "135091714473-9f629jlvq6ubsekip5q1sigog02glhnc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDOfqqAITTzJI-5UsKuiz_jzY6RF5hnNeU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "135091714473-9f629jlvq6ubsekip5q1sigog02glhnc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
